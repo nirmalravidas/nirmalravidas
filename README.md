@@ -15,7 +15,6 @@
 - 🎓 Pursuing **B.Tech** in **Computer Science and Engineering** (2024–2028)
 - 💡 Passionate about **Backend Development**, **System Design**, **DSA**, and **Problem-Solving**
 - 🤝 Open to **Freelance Opportunities**, **Collaborations**, and **Internships**
-- 
 ---
 
 ## 💻 Tech Stack
