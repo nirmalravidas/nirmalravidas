@@ -35,12 +35,6 @@
 
 -->
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=nirmalravidas&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
-
----
-
 ### 🔝 Top Contributed Repos
 
 ![](https://github-contributor-stats.vercel.app/api?username=nirmalravidas&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
